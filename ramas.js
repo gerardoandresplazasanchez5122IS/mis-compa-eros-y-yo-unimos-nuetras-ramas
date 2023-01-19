@@ -7,7 +7,7 @@ main
 // rama chevin profe
 
 // rama el noruego
-
+alert("hola");
 // el andys
 
 // rama twin alias encantador
