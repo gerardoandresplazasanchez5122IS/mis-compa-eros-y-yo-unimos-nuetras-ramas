@@ -5,11 +5,11 @@ main
 // rama toallin
 
 // rama chevin profe
-
+alert("kevin");
 // rama el noruego
 
 // el andys
-
+"noobmaster"
 // rama twin alias encantador
 
 class babo{
