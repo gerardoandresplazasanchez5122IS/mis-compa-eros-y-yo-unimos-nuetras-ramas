@@ -11,3 +11,7 @@ main
 // el andys
 
 // rama twin alias encantador
+
+class babo{
+  return "hola"
+}
